@@ -6,7 +6,14 @@ Screenplays contain semantically and structurally rich text as the average movie
 
 # Results
 ### LSTM Output:
-![Example Image](images/example.png)
+![LSTM script generation](lstm.png)
+
+
+
+
+### GPT-2 output:
+![GPT-2 script generation](gpt2.png)
+
 
 
 
