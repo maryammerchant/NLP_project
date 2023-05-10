@@ -1,4 +1,16 @@
 # NLP_project
+<image align="center" src="https://user-images.githubusercontent.com/43872050/196559217-707989b8-c368-4c85-932c-f2b5e377b6dd.png"/>
+
+<p align="center">Screenplay Generation using GPT-2 and LSTM</p>
+
+![image](https://user-images.githubusercontent.com/43872050/196559434-6dbda1e1-79c6-456e-8e3a-deac0e657d47.png)
+
+
+
+## Team Members:
+- Maryam Yahayabhai Merchant
+- Siby Babu Panchakalayil
+
 
 
 # Abstract
