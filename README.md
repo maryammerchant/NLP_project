@@ -20,6 +20,7 @@ Screenplays contain semantically and structurally rich text as the average movie
 As below we can see GPT-2 gave us less loss and better result than LSTM
 1. LSTM Loss: Epoch:   10/10    Loss: 3.3531750526428223
 2. GPT-2 loss: [100 | 13435.28] loss=2.41 avg=2.40
+
 **BLEU Score:** 0.33919182578128976
 **METEOR Score:** 0.8259102329245384
 
